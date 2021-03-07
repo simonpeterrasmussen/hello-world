@@ -1,2 +1,2 @@
 # hello-world
-This is just the initial learning repository
+This is the first updated version of the file.
